@@ -12,7 +12,7 @@ import {
 
 export default class  extends Component {
 
-  apikey = process.env.REACT_APP_NEWS_API;
+  apikey = "1f3114ef5674437d80ccd26aab7e6fe6";
   state ={
     progress:0
   }
